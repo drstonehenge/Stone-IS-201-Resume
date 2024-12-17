@@ -13,6 +13,8 @@ h1 {
 h2 {
     color: forestgreen;
     font-style: italic;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif
 }
 
 ol {
